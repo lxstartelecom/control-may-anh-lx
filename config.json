@@ -1,0 +1,9 @@
+{
+  "camera_enabled": true,
+  "camera_mode": "third_person",
+  "fov": 70,
+  "sensitivity": 1.0,
+  "zoom": 10,
+  "shake": false,
+  "announcement": "May anh dang hoat dong binh thuong"
+}
