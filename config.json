@@ -1,9 +1,4 @@
 {
-  "camera_enabled": true,
-  "camera_mode": "third_person",
-  "fov": 70,
-  "sensitivity": 1.0,
-  "zoom": 10,
-  "shake": false,
-  "announcement": "May anh dang hoat dong binh thuong"
+ "premium": { "enabled": false, "earlyGift": "forever", "subs": "lxstar_premium" },
+ "news": { "id": "chao-mung", "title": "🎉 Chào mừng đến LX Star Camera", "text": "1.000 hiệu ứng 3D mới · chạm để xem" }
 }
